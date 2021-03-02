@@ -1,4 +1,4 @@
-# Machine-Learning-1.0
+# Machine-Learning
 ## ML Workflows
 ## ML Research Roadmap
 ## ML Resources
